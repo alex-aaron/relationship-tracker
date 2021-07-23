@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :connections
   devise_for :users
   get '/' => "static#home"
 

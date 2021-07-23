@@ -1,5 +1,13 @@
 body {
     padding: 10px;
+    font-family: 'arial';
 }
 
+@font-face {
+    font-family: 'cream-DEMO';
+    src: url('assets/cream-DEMO.ttf');
+}
 
+#home-page-title {
+    text-align: center;
+}
