@@ -25,6 +25,7 @@ gem 'devise'
 
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'activerecord-session_store'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
